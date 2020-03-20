@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.3dauthentication.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\research\\research-uofg\\3DAuthentication - Copy\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "3DAuthentication [Testing]"
+        }
+      }
+    }
+  ]
+}
